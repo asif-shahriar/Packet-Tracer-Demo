@@ -4,4 +4,4 @@
 * Download the pkt file
 * Run the pkt file
 
-Check the **"Project.pdf"** file for clear understanding.
+Check the **"Project topic.pdf"** file for clear understanding.
